@@ -108,3 +108,14 @@ Performance metrics used:
 ## 👩‍💻 Author
 
 Rohit Shirke
+
+
+## 📁 Project Structure
+
+SMS-Spam-Classification-LSTM/
+
+├── sms_spam_lstm.ipynb  
+├── dataset.csv  
+├── report.pdf  
+├── requirements.txt  
+├── README.md  
